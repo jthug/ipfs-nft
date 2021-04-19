@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ipfs-nft/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ipfs-nft/static/js/main.1a642fd5.chunk.js",
+    "main.js.map": "/ipfs-nft/static/js/main.1a642fd5.chunk.js.map",
+    "runtime-main.js": "/ipfs-nft/static/js/runtime-main.fa1059d7.js",
+    "runtime-main.js.map": "/ipfs-nft/static/js/runtime-main.fa1059d7.js.map",
+    "static/js/2.403443ca.chunk.js": "/ipfs-nft/static/js/2.403443ca.chunk.js",
+    "static/js/2.403443ca.chunk.js.map": "/ipfs-nft/static/js/2.403443ca.chunk.js.map",
+    "static/js/3.64bea794.chunk.js": "/ipfs-nft/static/js/3.64bea794.chunk.js",
+    "static/js/3.64bea794.chunk.js.map": "/ipfs-nft/static/js/3.64bea794.chunk.js.map",
+    "index.html": "/ipfs-nft/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ipfs-nft/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.403443ca.chunk.js.LICENSE.txt": "/ipfs-nft/static/js/2.403443ca.chunk.js.LICENSE.txt",
+    "static/media/plus.svg": "/ipfs-nft/static/media/plus.dde74494.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1059d7.js",
+    "static/js/2.403443ca.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1a642fd5.chunk.js"
+  ]
+}
